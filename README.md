@@ -19,3 +19,5 @@ Medusa: https://docs.medusabci.com/kernel/1.4/getstarted.php
  It also includes logical functions and classes to handle different biosignals, such as electroencephalography (EEG) and magnetoencephalography (MEG), save experimental data or implement standalone processing pipelines. 
 
  2025 Hackaton: https://www.br41n.io/
+
+Youtube channel: https://www.youtube.com/@gtecmedicalengineering
