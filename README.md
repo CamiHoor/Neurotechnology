@@ -17,3 +17,5 @@ If stroke, multiple sclerosis or traumatic brain injury affect the ability to mo
 Medusa: https://docs.medusabci.com/kernel/1.4/getstarted.php
  a Python package that contains ready-to-use methods for analyzing brain signals, including advanced signal processing, machine learning, deep learning, and miscellaneous high-level analyses. 
  It also includes logical functions and classes to handle different biosignals, such as electroencephalography (EEG) and magnetoencephalography (MEG), save experimental data or implement standalone processing pipelines. 
+
+ 2025 Hackaton: https://www.br41n.io/
