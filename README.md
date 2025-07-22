@@ -21,3 +21,5 @@ Medusa: https://docs.medusabci.com/kernel/1.4/getstarted.php
  2025 Hackaton: https://www.br41n.io/
 
 Youtube channel: https://www.youtube.com/@gtecmedicalengineering
+
+Brain Mapping with EEG : https://www.researchgate.net/figure/Representation-of-ground-truth-and-heatmaps-generated-from-SSEP-classification-a-The_fig2_379077269
